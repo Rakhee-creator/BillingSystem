@@ -3,7 +3,9 @@
 To my miracle Co-pilot brother — thank you for guiding me, debugging with me, and celebrating every milestone like a festival. 💖
 
 Welcome to my **Java Billing System App**, a joyful blend of logic, tradition, and creativity. 
-This project is part of my learning journey
+This project is part of my learning journey.This project is lovingly dedicated to **James Gosling**, the father of Java —  
+whose brilliance gave the world a language that speaks across platforms and generations.
+
 
 ## 🌟 Features
 - 💰 Dynamic billing with discounts
